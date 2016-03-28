@@ -103,7 +103,7 @@ class NumJellyEstimator:
             sys.exit()
 
         # NE24: What other checks might be useful? What is a better way to do this?
-        # Checking 
+        # The tests here might be done better using the try/except method. 
 
         return int(n)
 
